@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_hello"
+  site-url: "https://sharan1133.github.io/nbdev_hello"
+  description: "Getting started with nbdev"
+  repo-branch: master
+  repo-url: "https://github.com/sharan1133/nbdev_hello"
